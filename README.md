@@ -4,7 +4,7 @@
 <table width="100%" align="center" border="0">
 <tr>
 <td width="49%">
-  <img width="300" height="149" src="https://autoiqinc.com/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png"> </td>
+  <img width="300" height="149" src="https://abundantgraceintl.org/wp-content/uploads/2023/05/google-workspace-logo-512x255-1.png"> </td>
 <td width="49%">
 <img width="284" height="76" src="https://flaxton.github.io/AGI-iPhone-email/AGI-Logo-2017.png"> </td>
 </tr>
@@ -46,7 +46,7 @@ Google Workspace is a "cloud" service - which means that the files/folders/apps 
 
 Accessing Google Workspace is done using a web browser, preferably *Google Chrome*.
 
-The advantage of using Google Workspace is that you can share files and folders with other Auto IQ staff and Chorale members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
+The advantage of using Google Workspace is that you can share files and folders with other AGI staff members easily, instead of emailing documents, that are quickly out-of-date. Viewing or editing documents (if you have access to edit) requires no software at all, such as Microsoft Office, just a computer and web browser.
 
 Staff can collaborate on documents, and even edit them at the same time.
 
@@ -64,8 +64,8 @@ So, what do I need to get started?
 
 * A Windows or Mac computer
 * The Google Chrome web browser
-* Your Auto IQ email address (something@autoiqinc.com)
-* Your Auto IQ password
+* Your AGI email address (something@autoiqinc.com)
+* Your AGI password
 
 __*You should have received the email address and password already - be sure to save them!*__
 
@@ -74,7 +74,7 @@ If you haven't received them, or misplaced them, contact Fred Laxton.
 * Windows users - if you use Microsoft Outlook, save them in a Contact
 * Mac users - open the Contacts app and save them there - they'll also be saved in iCloud
 
-Make the name of the card something like "Auto IQ email account" or some such, in the business name field (not First/Last name)
+Make the name of the card something like "AGI email account" or some such, in the business name field (not First/Last name)
 
 In the notes of the contact, put the email address and password.
 
@@ -90,7 +90,7 @@ Why use Google Chrome? Because Google Workspace is made by Google, and other web
 
 ### <a name="chrome"></a>Using Google Chrome
 
-__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the Auto IQ account. 
+__*If*__ you already have a Google/Gmail account, you will want to use a separate profile for the AGI account. 
 
 Here's how to add another profile on __*Chrome on Windows*__:
 
@@ -98,11 +98,11 @@ Here's how to add another profile on __*Chrome on Windows*__:
 
 ![Profile on Chrome Windows](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-1.png)
 
-Click "Add" to add your Auto IQ Google account, and signon:
+Click "Add" to add your AGI Google account, and signon:
 
 ![New profile login](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-2.png)
 
-After giving your Auto IQ email address and password, you'll be asked to turn on sync:
+After giving your AGI email address and password, you'll be asked to turn on sync:
 
 ![Turn on sync](https://greenvillechorale.org/wp-content/uploads/2022/08/chrome-windows-3.png)
 
@@ -126,7 +126,7 @@ And you switch profiles by clicking on Profiles and then the profile you wish to
 
 ### <a name="gmail"></a>Gmail
 
-What is Gmail? It's the email system for Google accounts. Auto IQ is using Google Workspace, hence Google email, even though the addresses are something@autoiqinc.com.
+What is Gmail? It's the email system for Google accounts. AGI is using Google Workspace, hence Google email, even though the addresses are something@autoiqinc.com.
 
 **There are two ways to use your email account:**
 
@@ -209,7 +209,7 @@ Google Drive is a file and folder viewer, like Explorer on Windows or Finder on 
 
 Bear in mind that your default Google Drive area is "My Drive" - these are private files/folders only on your account.
 
-Files and folders shared with other Auto IQ users are all in folders in "Shared with me" in the left sidebar.
+Files and folders shared with other AGI users are all in folders in "Shared with me" in the left sidebar.
 
 ![Shared with me](https://greenvillechorale.org/wp-content/uploads/2022/08/drive-1.png)
 
@@ -231,7 +231,7 @@ However, going forward, you should plan to use native Google Workspace file form
 
 Why would you do that? 
 
-Because native Google Workspace documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Google Workspace, backups, quick opening, and others (such as Chorale members) do not need any special software (like Microsoft Office) to access them.
+Because native Google Workspace documents, spreadsheets, etc. have advanced collaboration features that Microsoft Office lacks, such as automatic saving, multiple users editing at the same time, sharing the documents on Google Workspace, backups, quick opening, and others (such as staff members) do not need any special software (like Microsoft Office) to access them.
 
 So, how do you do convert a Microsoft Office file to Google Workspace formats?
 
