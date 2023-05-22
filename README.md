@@ -6,7 +6,7 @@
 <td width="49%">
   <img width="300" height="149" src="https://autoiqinc.com/wp-content/uploads/2022/12/google-workspace-logo-512x255-1.png"> </td>
 <td width="49%">
-<img width="341" height="144" src="https://autoiqinc.com/wp-content/uploads/2022/12/autoiq-red-logo.jpg"> </td>
+<img width="284" height="76" src="https://flaxton.github.io/AGI-iPhone-email/AGI-Logo-2017.png"> </td>
 </tr>
 </table>
 </p>
